@@ -1,0 +1,1345 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (rtld_errno)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__closedir)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__rewinddir)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__readdir)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__fdopendir)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__profil)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__profile_frequency)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___xstat64)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___fxstat64)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___lxstat64)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__lseek)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__access)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___openat64_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__mmap)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__munmap)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__mprotect)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__uname)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__GI__exit)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__getpid)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__environ)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__sigsetjmp)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__longjmp)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (strchr)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (strcmp)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (strcspn)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__strdup)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (strnlen)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (strncmp)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (memchr)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (memcmp)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (memset)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__mempcpy)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (__stpcpy)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (rawmemchr)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os (memmove)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os) (__strlen)
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+
+Discarded input sections
+
+ COMMON         0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ COMMON         0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+LOAD /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a
+LOAD /usr/lib/gcc-cross/aarch64-linux-gnu/8/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.text           0x0000000000000000    0x16c28
+ *(.text .stub)
+ .text          0x0000000000000000    0x14e70 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x000000000000000c                _dl_start_user
+                0x0000000000000fa0                handle_ld_preload
+                0x0000000000006030                _dl_dst_count
+                0x00000000000060e0                _dl_dst_substitute
+                0x00000000000068a0                _dl_init_paths
+                0x0000000000006b68                _dl_map_object
+                0x00000000000074b8                _dl_rtld_di_serinfo
+                0x0000000000008210                _dl_lookup_symbol_x
+                0x00000000000090d0                _dl_setup_hash
+                0x0000000000009178                _dl_add_to_namespace_list
+                0x0000000000009238                _dl_new_object
+                0x0000000000009508                _dl_try_allocate_static_tls
+                0x0000000000009600                _dl_allocate_static_tls
+                0x0000000000009648                _dl_nothread_init_static_tls
+                0x0000000000009690                _dl_protect_relro
+                0x0000000000009710                _dl_reloc_bad_type
+                0x00000000000097e0                _dl_relocate_object
+                0x000000000000aa88                _dl_map_object_deps
+                0x000000000000b730                _dl_important_hwcaps
+                0x000000000000bdf0                _dl_fixup
+                0x000000000000bfc8                _dl_profile_fixup
+                0x000000000000c5a0                _dl_call_pltexit
+                0x000000000000c7f0                _dl_init
+                0x000000000000c948                _dl_fini
+                0x000000000000cd18                _dl_debug_state
+                0x000000000000cd18                __GI__dl_debug_state
+                0x000000000000cd20                _dl_debug_initialize
+                0x000000000000d3e0                _dl_sysdep_read_whole_file
+                0x000000000000d480                _dl_debug_printf
+                0x000000000000d508                _dl_debug_printf_c
+                0x000000000000d590                _dl_dprintf
+                0x000000000000d608                _dl_name_match_p
+                0x000000000000d670                _dl_higher_prime_number
+                0x000000000000d6f8                _dl_strtoul
+                0x000000000000d850                _dl_check_map_versions
+                0x000000000000df10                _dl_check_all_versions
+                0x000000000000df98                _dl_start_profile
+                0x000000000000e638                __GI__dl_mcount
+                0x000000000000e638                _dl_mcount
+                0x000000000000ecd8                _dl_next_tls_modid
+                0x000000000000edd0                _dl_count_modids
+                0x000000000000ee30                _dl_determine_tlsoffset
+                0x000000000000efd8                _dl_get_tls_static_info
+                0x000000000000eff8                _dl_allocate_tls_storage
+                0x000000000000f0a8                __GI__dl_allocate_tls_init
+                0x000000000000f0a8                _dl_allocate_tls_init
+                0x000000000000f2a0                __GI__dl_allocate_tls
+                0x000000000000f2a0                _dl_allocate_tls
+                0x000000000000f2c8                _dl_deallocate_tls
+                0x000000000000f2c8                __GI__dl_deallocate_tls
+                0x000000000000f360                _dl_update_slotinfo
+                0x000000000000f5e8                __GI___tls_get_addr
+                0x000000000000f5e8                __tls_get_addr
+                0x000000000000f638                _dl_tls_get_addr_soft
+                0x000000000000f6c8                _dl_add_to_slotinfo
+                0x000000000000f7d8                _dl_get_origin
+                0x000000000000f990                _dl_scope_free
+                0x000000000000fa78                _dl_make_stack_executable
+                0x000000000000fa78                __GI__dl_make_stack_executable
+                0x000000000000fd08                __GI__dl_find_dso_for_object
+                0x000000000000fd08                _dl_find_dso_for_object
+                0x000000000000fdf0                _dl_open
+                0x00000000000100b8                _dl_show_scope
+                0x0000000000010a00                _dl_close_worker
+                0x0000000000011878                _dl_close
+                0x00000000000118fc                _dl_runtime_resolve
+                0x0000000000011970                _dl_runtime_profile
+                0x0000000000011ab8                _dl_exception_create
+                0x0000000000011ab8                __GI__dl_exception_create
+                0x0000000000011ba0                __GI__dl_exception_create_format
+                0x0000000000011ba0                _dl_exception_create_format
+                0x0000000000011fc0                _dl_exception_free
+                0x0000000000011fc0                __GI__dl_exception_free
+                0x0000000000011ff0                _dl_sort_maps
+                0x0000000000012240                _dl_cache_libcmp
+                0x0000000000012338                _dl_load_cache_lookup
+                0x00000000000128f8                _dl_unload_cache
+                0x0000000000012a10                __tunable_set_val
+                0x0000000000012a30                __GI___tunables_init
+                0x0000000000012ef8                __tunable_get_val
+                0x0000000000012ef8                __GI___tunable_get_val
+                0x0000000000012f88                _dl_var_init
+                0x0000000000012fa0                _dl_make_tlsdesc_dynamic
+                0x0000000000013288                _dl_unmap
+                0x0000000000013314                _dl_tlsdesc_return
+                0x000000000001331c                _dl_tlsdesc_undefweak
+                0x0000000000013334                _dl_tlsdesc_dynamic
+                0x0000000000013458                _dl_sysdep_start
+                0x0000000000013828                _dl_sysdep_start_cleanup
+                0x0000000000013830                _dl_show_auxv
+                0x00000000000139a8                _dl_discover_osversion
+                0x0000000000013ba8                _dl_next_ld_env_entry
+                0x0000000000013bf8                unsetenv
+                0x0000000000013c70                malloc
+                0x0000000000013da0                calloc
+                0x0000000000013dd8                free
+                0x0000000000013e28                __sigjmp_save
+                0x0000000000013e38                __strerror_r
+                0x0000000000013f28                __GI___libc_fatal
+                0x0000000000013f28                __libc_fatal
+                0x0000000000013f50                __GI___chk_fail
+                0x0000000000013f50                __chk_fail
+                0x0000000000013f60                __GI___assert_fail
+                0x0000000000013f60                __assert_fail
+                0x0000000000013fb0                realloc
+                0x0000000000014038                __GI___assert_perror_fail
+                0x0000000000014038                __assert_perror_fail
+                0x00000000000140a8                _itoa
+                0x0000000000014108                __strsep
+                0x0000000000014108                strsep
+                0x0000000000014108                __strsep_g
+                0x0000000000014250                _dl_signal_exception
+                0x0000000000014298                _dl_signal_error
+                0x00000000000142e8                _dl_signal_cexception
+                0x0000000000014380                _dl_signal_cerror
+                0x0000000000014428                _dl_catch_exception
+                0x00000000000144b8                _dl_catch_error
+                0x0000000000014510                _dl_receive_error
+                0x0000000000014558                _dl_resolve_conflicts
+                0x00000000000146f0                __read_tp
+                0x00000000000146f8                __brk
+                0x00000000000146f8                brk
+                0x0000000000014730                sbrk
+                0x0000000000014730                __sbrk
+                0x00000000000147e8                __getcwd
+                0x00000000000147e8                getcwd
+                0x0000000000014c38                openat64
+                0x0000000000014ca8                __alloc_dir
+                0x0000000000014d70                __opendir
+                0x0000000000014d70                opendir
+                0x0000000000014e20                __fxstatat
+                0x0000000000014e20                __fxstatat64
+                0x0000000000014e20                __GI___fxstatat64
+ .text          0x0000000000014e70       0xf0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000014f30                __libc_check_standard_fds
+ .text          0x0000000000014f60        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .text          0x0000000000014f60       0x3c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000014f60                __closedir
+                0x0000000000014f60                closedir
+ *fill*         0x0000000000014f9c        0x4 1f2003d5
+ .text          0x0000000000014fa0       0x38 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000014fa0                rewinddir
+                0x0000000000014fa0                __rewinddir
+ .text          0x0000000000014fd8       0xd4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+                0x0000000000014fd8                readdir
+                0x0000000000014fd8                __readdir64
+                0x0000000000014fd8                __readdir
+                0x0000000000014fd8                readdir64
+ *fill*         0x00000000000150ac        0x4 1f2003d5
+ .text          0x00000000000150b0       0xb0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x00000000000150b0                fdopendir
+                0x00000000000150b0                __fdopendir
+ .text          0x0000000000015160       0x2c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+                0x0000000000015160                __getdents
+                0x0000000000015160                __getdents64
+ *fill*         0x000000000001518c        0x4 1f2003d5
+ .text          0x0000000000015190       0x5c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x0000000000015190                _dl_addr_inside_object
+ *fill*         0x00000000000151ec        0x4 1f2003d5
+ .text          0x00000000000151f0       0xfc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000015248                __profil
+                0x0000000000015248                profil
+ *fill*         0x00000000000152ec        0x4 1f2003d5
+ .text          0x00000000000152f0        0xc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x00000000000152f0                __profile_frequency
+ *fill*         0x00000000000152fc        0x4 1f2003d5
+ .text          0x0000000000015300       0x48 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+                0x0000000000015300                _xstat
+                0x0000000000015300                __xstat64
+                0x0000000000015300                __GI___xstat64
+                0x0000000000015300                __GI___xstat
+                0x0000000000015300                __xstat
+ .text          0x0000000000015348       0x48 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+                0x0000000000015348                __GI___fxstat
+                0x0000000000015348                __GI___fxstat64
+                0x0000000000015348                __fxstat64
+                0x0000000000015348                _fxstat
+                0x0000000000015348                __fxstat
+ .text          0x0000000000015390       0x48 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+                0x0000000000015390                __GI___lxstat
+                0x0000000000015390                _lxstat
+                0x0000000000015390                __lxstat
+                0x0000000000015390                __lxstat64
+                0x0000000000015390                __GI___lxstat64
+ .text          0x00000000000153d8       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+                0x00000000000153d8                __lseek64
+                0x00000000000153d8                lseek
+                0x00000000000153d8                __libc_lseek64
+                0x00000000000153d8                __lseek
+                0x00000000000153d8                __libc_lseek
+                0x00000000000153d8                lseek64
+ .text          0x0000000000015408       0x34 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+                0x0000000000015408                access
+                0x0000000000015408                __access
+ *fill*         0x000000000001543c        0x4 1f2003d5
+ .text          0x0000000000015440       0x2c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x0000000000015440                __GI___close_nocancel
+ *fill*         0x000000000001546c        0x4 1f2003d5
+ .text          0x0000000000015470       0xac /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000015470                __fcntl64_nocancel_adjusted
+                0x00000000000154f0                __fcntl64_nocancel
+                0x00000000000154f0                __GI___fcntl64_nocancel
+ *fill*         0x000000000001551c        0x4 1f2003d5
+ .text          0x0000000000015520       0x8c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x0000000000015520                __GI___open_nocancel
+                0x0000000000015520                __open_nocancel
+                0x0000000000015520                __GI___open64_nocancel
+                0x0000000000015520                __open64_nocancel
+ *fill*         0x00000000000155ac        0x4 1f2003d5
+ .text          0x00000000000155b0       0x88 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+                0x00000000000155b0                __GI___openat64_nocancel
+                0x00000000000155b0                __openat64_nocancel
+                0x00000000000155b0                __GI___openat_nocancel
+                0x00000000000155b0                __openat_nocancel
+ .text          0x0000000000015638       0x2c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x0000000000015638                __read_nocancel
+                0x0000000000015638                __GI___read_nocancel
+ *fill*         0x0000000000015664        0x4 1f2003d5
+ .text          0x0000000000015668       0x2c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x0000000000015668                __GI___write_nocancel
+                0x0000000000015668                __write_nocancel
+ *fill*         0x0000000000015694        0x4 1f2003d5
+ .text          0x0000000000015698       0xdc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x0000000000015698                __libc_scratch_buffer_set_array_size
+ *fill*         0x0000000000015774        0x4 1f2003d5
+ .text          0x0000000000015778       0x50 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000015778                __mmap
+                0x0000000000015778                mmap
+                0x0000000000015778                __mmap64
+                0x0000000000015778                mmap64
+ *fill*         0x00000000000157c8        0x8 1f2003d5
+ .text          0x00000000000157d0       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+                0x00000000000157d0                munmap
+                0x00000000000157d0                __GI___munmap
+                0x00000000000157d0                __GI_munmap
+                0x00000000000157d0                __munmap
+ *fill*         0x00000000000157f8        0x8 1f2003d5
+ .text          0x0000000000015800       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000015800                __mprotect
+                0x0000000000015800                __GI___mprotect
+                0x0000000000015800                __GI_mprotect
+                0x0000000000015800                mprotect
+ *fill*         0x0000000000015828        0x8 1f2003d5
+ .text          0x0000000000015830       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000015830                uname
+                0x0000000000015830                __GI_uname
+                0x0000000000015830                __uname
+                0x0000000000015830                __GI___uname
+ .text          0x0000000000015858       0x88 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000015858                _Exit
+                0x0000000000015858                __GI__exit
+                0x0000000000015858                _exit
+ .text          0x00000000000158e0        0xc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+                0x00000000000158e0                __getpid
+                0x00000000000158e0                getpid
+                0x00000000000158e0                __GI_getpid
+                0x00000000000158e0                __GI___getpid
+ .text          0x00000000000158ec        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x00000000000158ec        0x4 1f2003d5
+ .text          0x00000000000158f0       0x70 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+                0x00000000000158f0                setjmp
+                0x0000000000015900                _setjmp
+                0x0000000000015910                __sigsetjmp
+                0x0000000000015910                __GI___sigsetjmp
+ .text          0x0000000000015960       0x58 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000015960                __longjmp
+ .text          0x00000000000159b8      0x140 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+                0x00000000000159b8                __libc_sigaction
+                0x0000000000015ac8                sigaction
+                0x0000000000015ac8                __sigaction
+ *fill*         0x0000000000015af8        0x8 1f2003d5
+ .text          0x0000000000015b00       0xdc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000015b00                index
+                0x0000000000015b00                strchr
+ *fill*         0x0000000000015bdc       0x24 1f2003d5
+ .text          0x0000000000015c00       0xe4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+                0x0000000000015c00                strcmp
+ *fill*         0x0000000000015ce4        0x4 1f2003d5
+ .text          0x0000000000015ce8      0x13c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+                0x0000000000015ce8                strcspn
+ *fill*         0x0000000000015e24        0x4 1f2003d5
+ .text          0x0000000000015e28       0x44 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000015e28                __strdup
+                0x0000000000015e28                strdup
+ *fill*         0x0000000000015e6c       0x14 1f2003d5
+ .text          0x0000000000015e80       0xe8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+                0x0000000000015ea4                __strnlen
+                0x0000000000015ea4                strnlen
+ *fill*         0x0000000000015f68       0x18 1f2003d5
+ .text          0x0000000000015f80      0x1d4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+                0x0000000000015f9c                strncmp
+ *fill*         0x0000000000016154        0xc 1f2003d5
+ .text          0x0000000000016160       0xd8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000016160                memchr
+                0x0000000000016160                __memchr
+ *fill*         0x0000000000016238        0x8 1f2003d5
+ .text          0x0000000000016240      0x110 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000016240                bcmp
+                0x0000000000016240                memcmp
+ *fill*         0x0000000000016350       0x30 1f2003d5
+ .text          0x0000000000016380      0x1dc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000016380                memset
+ *fill*         0x000000000001655c        0x4 1f2003d5
+ .text          0x0000000000016560       0x24 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+                0x0000000000016560                mempcpy
+                0x0000000000016560                __mempcpy
+ *fill*         0x0000000000016584       0x3c 1f2003d5
+ .text          0x00000000000165c0      0x1bc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x00000000000165c0                stpcpy
+                0x00000000000165c0                __stpcpy
+ *fill*         0x000000000001677c        0x4 1f2003d5
+ .text          0x0000000000016780       0x20 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+                0x0000000000016780                __rawmemchr
+                0x0000000000016780                rawmemchr
+ .text          0x00000000000167a0       0xb8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x00000000000167a0                __strchrnul
+                0x00000000000167a0                strchrnul
+ *fill*         0x0000000000016858       0x28 1f2003d5
+ .text          0x0000000000016880      0x21c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+                0x0000000000016880                memmove
+                0x0000000000016890                memcpy
+ *fill*         0x0000000000016a9c       0x24 1f2003d5
+ .text          0x0000000000016ac0      0x140 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+                0x0000000000016ac0                __strlen
+                0x0000000000016ac0                strlen
+ .text          0x0000000000016c00       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000016c00                setitimer
+                0x0000000000016c00                __setitimer
+                0x0000000000016c00                __GI_setitimer
+                0x0000000000016c00                __GI___setitimer
+ *(.gnu.warning)
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000      0x970
+ *(.rodata)
+ .rodata        0x0000000000000000      0x970 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                0x0000000000000960                __GI__itoa_lower_digits
+                0x0000000000000960                _itoa_lower_digits
+
+.rodata.str1.8  0x0000000000000000     0x3992
+ .rodata.str1.8
+                0x0000000000000000     0x3971 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ *fill*         0x0000000000003971        0x7 
+ .rodata.str1.8
+                0x0000000000003978       0x1a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x2e10
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2480 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                                       0x24d0 (size before relaxing)
+ .eh_frame      0x0000000000002480       0x68 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x00000000000024e8       0x38 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000002520       0x38 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000002558       0x50 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x00000000000025a8       0x48 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x00000000000025f0       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000002618       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x0000000000002640       0x50 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000002690       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x00000000000026b8       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .eh_frame      0x00000000000026e0       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .eh_frame      0x0000000000002708       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x0000000000002730       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000002758       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000002780       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x00000000000027a8       0x58 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x0000000000002800       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000002830       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .eh_frame      0x0000000000002860       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000002888       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x00000000000028b0       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000002910       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000002938       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000002960       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002988       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x00000000000029b0       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000029d8       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000002a00       0x50 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002a50       0x90 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002ae0       0x58 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x0000000000002b38       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000002b60       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000002b88       0x40 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .eh_frame      0x0000000000002bc8       0x40 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000002c08       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000002c30       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .eh_frame      0x0000000000002c58       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000002c80       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000002ca8       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000002cd0       0x38 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .eh_frame      0x0000000000002d08       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000002d30       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .eh_frame      0x0000000000002d58       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .eh_frame      0x0000000000002d80       0x40 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .eh_frame      0x0000000000002dc0       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .eh_frame      0x0000000000002de8       0x28 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x1000
+ *(.data)
+ .data          0x0000000000000000     0x1000 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .data          0x0000000000001000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.data.rel.ro    0x0000000000000000      0x7a4
+ .data.rel.ro   0x0000000000000000      0x7a4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                0x0000000000000000                _dl_argc
+                0x00000000000000a0                __pointer_chk_guard
+                0x00000000000000a0                __pointer_chk_guard_local
+                0x00000000000000a8                __stack_chk_guard
+                0x00000000000000b0                _rtld_global_ro
+                0x00000000000000b0                _rtld_local_ro
+                0x00000000000002f0                __stack_prot
+                0x0000000000000790                __libc_stack_end
+                0x0000000000000790                __GI___libc_stack_end
+                0x0000000000000798                _dl_random
+                0x00000000000007a0                __GI___libc_enable_secure
+                0x00000000000007a0                __libc_enable_secure
+
+.data.rel.ro.local
+                0x0000000000000000       0x70
+ .data.rel.ro.local
+                0x0000000000000000       0x70 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x130
+ *(.bss)
+ .bss           0x0000000000000000      0x108 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+                0x0000000000000000                __GI__dl_argv
+                0x0000000000000000                _dl_argv
+                0x00000000000000d0                __libc_multiple_libcs
+                0x0000000000000100                ___brk_addr
+                0x0000000000000100                __curbrk
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000108        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .bss           0x0000000000000108       0x20 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000128        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000128        0x8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000128                _environ
+                0x0000000000000128                __environ
+                0x0000000000000128                environ
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .bss           0x0000000000000130        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xb16
+ *(.comment)
+ .comment       0x0000000000000000      0x637 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .comment       0x0000000000000637       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000662       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x000000000000068d       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x00000000000006b8       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x00000000000006e3       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x000000000000070e       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000739       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x0000000000000764       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x000000000000078f       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x00000000000007ba       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x00000000000007e5       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .comment       0x0000000000000810       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .comment       0x000000000000083b       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x0000000000000866       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000891       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x00000000000008bc       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x00000000000008e7       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000912       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x000000000000093d       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .comment       0x0000000000000968       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x0000000000000993       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x00000000000009be       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x00000000000009e9       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000a14       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000a3f       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000a6a       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000a95       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000000ac0       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000aeb       0x2b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1060
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x780 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000780       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x00000000000007b0       0x20 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x00000000000007d0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000800       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000830       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000860       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000890       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x00000000000008c0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x00000000000008f0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000920       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000950       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_aranges
+                0x0000000000000980       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_aranges
+                0x00000000000009b0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_aranges
+                0x00000000000009e0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000a40       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000a70       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000aa0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000ad0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_aranges
+                0x0000000000000b00       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000b30       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000000cb0       0x20 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xb4a9b
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x9230a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_info    0x000000000009230a      0xb3f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x0000000000092e49      0x6b8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x0000000000093501     0x1d5f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x0000000000095260     0x1ced /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x0000000000096f4d     0x1de2 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x0000000000098d2f     0x1f0d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x000000000009ac3c     0x1ca5 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x000000000009c8e1     0x2846 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x000000000009f127      0x9d0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x000000000009faf7     0x3577 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x00000000000a306e      0x9ad /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_info    0x00000000000a3a1b      0x95c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_info    0x00000000000a4377      0x9ad /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_info    0x00000000000a4d24      0x85a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000a557e     0x1f34 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000a74b2     0x1ee6 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000a9398     0x2213 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x00000000000ab5ab      0x8fc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x00000000000abea7     0x1ff0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_info    0x00000000000ade97     0x1f6a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x00000000000afe01     0x1f6a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x00000000000b1d6b      0x3ee /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000b2159      0x9c2 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000b2b1b       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000b2b49       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000b2b77       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000b2ba5      0x82d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000b33d2       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000b3400      0x103 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000b3503       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000b3531       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000b355f      0xddd /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x00000000000b433c       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_info    0x00000000000b436a       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_info    0x00000000000b4398      0x1c7 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_info    0x00000000000b455f      0x226 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000b4785       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_info    0x00000000000b47b3       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_info    0x00000000000b47e1       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_info    0x00000000000b480f       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_info    0x00000000000b483d       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .debug_info    0x00000000000b486b      0x11c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .debug_info    0x00000000000b4987       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_info    0x00000000000b49b5       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .debug_info    0x00000000000b49e3       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_info    0x00000000000b4a11       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .debug_info    0x00000000000b4a3f       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .debug_info    0x00000000000b4a6d       0x2e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_abbrev   0x0000000000000000     0xf8c9
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xb277 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000b277      0x253 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x000000000000b4ca      0x127 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x000000000000b5f1      0x34d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x000000000000b93e      0x314 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x000000000000bc52      0x345 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x000000000000bf97      0x348 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x000000000000c2df      0x2f8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x000000000000c5d7      0x32f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x000000000000c906      0x31c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x000000000000cc22      0x31f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x000000000000cf41      0x199 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_abbrev  0x000000000000d0da      0x199 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_abbrev  0x000000000000d273      0x199 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_abbrev  0x000000000000d40c      0x1aa /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000000d5b6      0x313 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x000000000000d8c9      0x313 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x000000000000dbdc      0x3df /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x000000000000dfbb      0x1cf /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x000000000000e18a      0x348 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_abbrev  0x000000000000e4d2      0x327 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x000000000000e7f9      0x327 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x000000000000eb20      0x23f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x000000000000ed5f      0x200 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000000ef5f       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x000000000000ef73       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x000000000000ef87       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x000000000000ef9b      0x199 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x000000000000f134       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x000000000000f148       0x97 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x000000000000f1df       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x000000000000f1f3       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x000000000000f207      0x298 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x000000000000f49f       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_abbrev  0x000000000000f4b3       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_abbrev  0x000000000000f4c7      0x104 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_abbrev  0x000000000000f5cb      0x166 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x000000000000f731       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_abbrev  0x000000000000f745       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_abbrev  0x000000000000f759       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_abbrev  0x000000000000f76d       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_abbrev  0x000000000000f781       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .debug_abbrev  0x000000000000f795       0xbc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .debug_abbrev  0x000000000000f851       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_abbrev  0x000000000000f865       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .debug_abbrev  0x000000000000f879       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_abbrev  0x000000000000f88d       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .debug_abbrev  0x000000000000f8a1       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .debug_abbrev  0x000000000000f8b5       0x14 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_line     0x0000000000000000    0x232a3
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1c5f0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_line    0x000000000001c5f0      0x352 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000001c942      0x1ad /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000001caef      0x4a3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x000000000001cf92      0x456 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000001d3e8      0x508 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x000000000001d8f0      0x53e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x000000000001de2e      0x408 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x000000000001e236      0x47b /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x000000000001e6b1      0x3f4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000001eaa5      0x4f1 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x000000000001ef96      0x2a0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_line    0x000000000001f236      0x28c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_line    0x000000000001f4c2      0x2a1 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_line    0x000000000001f763      0x259 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000001f9bc      0x49c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x000000000001fe58      0x482 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x00000000000202da      0x548 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x0000000000020822      0x303 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x0000000000020b25      0x4f3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_line    0x0000000000021018      0x48f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x00000000000214a7      0x490 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x0000000000021937      0x1e7 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x0000000000021b1e      0x2a9 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x0000000000021dc7       0x59 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x0000000000021e20       0x59 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x0000000000021e79       0x59 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x0000000000021ed2      0x2ef /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x00000000000221c1       0x57 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x0000000000022218       0x75 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000002228d       0x62 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x00000000000222ef       0x65 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x0000000000022354      0x440 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x0000000000022794       0x86 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line    0x000000000002281a       0x89 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line    0x00000000000228a3      0x1d6 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line    0x0000000000022a79       0xf7 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x0000000000022b70       0x87 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line    0x0000000000022bf7       0xbd /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line    0x0000000000022cb4       0x84 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line    0x0000000000022d38       0x90 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line    0x0000000000022dc8       0xc3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line    0x0000000000022e8b       0x97 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .debug_line    0x0000000000022f22       0xbc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line    0x0000000000022fde       0x59 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .debug_line    0x0000000000023037       0x80 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line    0x00000000000230b7       0xe3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .debug_line    0x000000000002319a       0xb0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .debug_line    0x000000000002324a       0x59 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x70170
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x571f3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_str     0x00000000000571f3      0x7a5 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x0000000000057998      0x514 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x0000000000057eac     0x1553 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x00000000000593ff     0x150a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x000000000005a909     0x158c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000005be95     0x1658 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x000000000005d4ed     0x147f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x000000000005e96c     0x1b7f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x00000000000604eb      0x688 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x0000000000060b73     0x2449 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x0000000000062fbc      0x69e /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_str     0x000000000006365a      0x684 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_str     0x0000000000063cde      0x6a1 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_str     0x000000000006437f      0x5f5 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000064974     0x16fb /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x000000000006606f     0x1709 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x0000000000067778     0x17d2 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x0000000000068f4a      0x689 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x00000000000695d3     0x1796 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_str     0x000000000006ad69     0x172d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x000000000006c496     0x1730 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x000000000006dbc6      0x307 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x000000000006decd      0x61a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x000000000006e4e7       0x65 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x000000000006e54c       0x65 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x000000000006e5b1       0x66 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x000000000006e617      0x5d6 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x000000000006ebed       0x66 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000006ec53      0x1f3 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x000000000006ee46       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x000000000006eea6       0x63 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x000000000006ef09      0x7f8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x000000000006f701       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_str     0x000000000006f761       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_str     0x000000000006f7c1      0x1b4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_str     0x000000000006f975      0x20a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x000000000006fb7f       0x61 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_str     0x000000000006fbe0       0x61 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_str     0x000000000006fc41       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_str     0x000000000006fca1       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_str     0x000000000006fd01       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memset.os)
+ .debug_str     0x000000000006fd61      0x1aa /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+ .debug_str     0x000000000006ff0b       0x60 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_str     0x000000000006ff6b       0x63 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .debug_str     0x000000000006ffce       0x63 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_str     0x0000000000070031       0x6d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-memcpy_generic.os)
+ .debug_str     0x000000000007009e       0x6d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strlen_generic.os)
+ .debug_str     0x000000000007010b       0x65 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_loc      0x0000000000000000    0x367bb
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x32d29 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_loc     0x0000000000032d29      0x19c /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loc     0x0000000000032ec5       0xa4 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loc     0x0000000000032f69       0x52 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loc     0x0000000000032fbb      0x21d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loc     0x00000000000331d8       0xf8 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loc     0x00000000000332d0      0x1db /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loc     0x00000000000334ab      0x10f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loc     0x00000000000335ba      0x451 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loc     0x0000000000033a0b      0x24f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_loc     0x0000000000033c5a      0x23a /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_loc     0x0000000000033e94      0x251 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_loc     0x00000000000340e5      0x1fe /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loc     0x00000000000342e3      0x183 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_loc     0x0000000000034466       0xe7 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loc     0x000000000003454d      0x54f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loc     0x0000000000034a9c      0x2b2 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loc     0x0000000000034d4e      0x2fa /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_loc     0x0000000000035048      0x1db /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loc     0x0000000000035223      0x1db /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loc     0x00000000000353fe      0x34d /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loc     0x000000000003574b      0x3fd /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loc     0x0000000000035b48      0x27f /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loc     0x0000000000035dc7      0x591 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loc     0x0000000000036358      0x291 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_loc     0x00000000000365e9      0x106 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loc     0x00000000000366ef       0xcc /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mempcpy.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x8bf0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x83c0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/dl-allobjs.os
+ .debug_ranges  0x00000000000083c0       0xc0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_ranges  0x0000000000008480       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_ranges  0x00000000000084b0       0x40 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-profil.os)
+ .debug_ranges  0x00000000000084f0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_ranges  0x0000000000008520       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_ranges  0x0000000000008550       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_ranges  0x0000000000008580       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_ranges  0x00000000000085b0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-access.os)
+ .debug_ranges  0x00000000000085e0       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_ranges  0x0000000000008610       0xb0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_ranges  0x00000000000086c0       0xb0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_ranges  0x0000000000008770       0xb0 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-openat64_nocancel.os)
+ .debug_ranges  0x0000000000008820       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_ranges  0x0000000000008850       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_ranges  0x0000000000008880       0x30 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_ranges  0x00000000000088b0       0x40 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_ranges  0x00000000000088f0      0x270 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_ranges  0x0000000000008b60       0x90 /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/rtld-libc.a(rtld-sigaction.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.ARM.attributes
+ *(.ARM.attributes)
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/elf/librtld.os elf64-littleaarch64)

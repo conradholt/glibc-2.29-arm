@@ -1,0 +1,17 @@
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/dummy.o: \
+ /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/dummy.c \
+ ../include/stdc-predef.h \
+ /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/conrad/Downloads/glibc-2.29-arm/glibc-2.29/build_dir/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
